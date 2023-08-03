@@ -1,16 +1,4 @@
-{   
-    "Frage1":{
-        "Aufgabe":"42 + 17 = ?",
-        "Antwort":"59"
-    }, 
-
-    "Frage2":{
-        "Aufgabe":"5 + 8 = ?",
-        "Antwort":"13"
-    },
-    
-    "Frage3":{
-        "Aufgabe":"12 + 4 = ?",
-        "Antwort":"16"
-    } 
-}
+[
+  { "Aufgabe": "5+5", "Antwort": "10" },
+  { "Aufgabe": "2+4", "Antwort": "6" }
+]
